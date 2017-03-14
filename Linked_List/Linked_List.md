@@ -10,7 +10,7 @@
 
 리스트는 아래 그림처럼 하나의 블럭(노드)마다 다음 블럭(노드)의 주소를 가지고 있습니다.
 
-![Alt text](https://github.com/Funniest/study/blob/master/DataStruct/Linked_List/img/Node.PNG)
+![Alt text](https://github.com/Funniest/DataStruct/blob/master/Linked_List/img/Node.PNG)
 
 단일 연결리스트를 구현할 때에는 Head를 기점으로 노드를 이어주는 소스를 작성하면다.
 
