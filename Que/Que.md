@@ -6,11 +6,11 @@
 
 예를 들자면 1,2,3을 넣으면 아래 그림처럼 하나씩 들어오고,
 
-![Alt text](https://github.com/Funniest/DataStruct/blob/master/DataStruct/Que/img/PUSH.png)
+![Alt text](https://github.com/Funniest/DataStruct/blob/master/Que/img/PUSH.png)
 
 나중에 빼낼 때에는 1,2,3순으로 출력됩니다.
 
-![Alt text](https://github.com/Funniest/DataStruct/blob/master/DataStruct/Que/img/POP.png)
+![Alt text](https://github.com/Funniest/DataStruct/blob/master/Que/img/POP.png)
 
 ###소스 코드
 본 프로그램은 Visual studio 2015환경에서 작성되었습니다.
@@ -100,11 +100,11 @@ void main() {
 
 PUSH
 
-![Alt text](https://github.com/Funniest/study/blob/master/DataStruct/Que/img/Circular_PUSH.PNG)
+![Alt text](https://github.com/Funniest/DataStruct/blob/master/Que/img/Circular_PUSH.PNG)
 
 POP
 
-![Alt text](https://github.com/Funniest/study/blob/master/DataStruct/Que/img/Circular_POP.PNG)
+![Alt text](https://github.com/Funniest/DataStruct/blob/master/Que/img/Circular_POP.PNG)
 
 *일반큐와 약간 다르게 % 연산자를 이용해서 구현을 하면됩니다.*
 
