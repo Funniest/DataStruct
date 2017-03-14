@@ -6,11 +6,11 @@
 
 예를 들자면 1,2,3을 넣으면 아래 그림처럼 하나씩 쌓이고,
 
-![Alt text](https://github.com/Funniest/study/blob/master/DataStruct/Stack/img/PUSH.png)
+![Alt text](https://github.com/Funniest/DataStruct/blob/master/Stack/img/PUSH.png)
 
 나중에 빼낼 때에는 3,2,1순으로 출력이 됩니다.
 
-![Alt text](https://github.com/Funniest/study/blob/master/DataStruct/Stack/img/POP.png)
+![Alt text](https://github.com/Funniest/DataStruct/blob/master/Stack/img/POP.png)
 
 ###소스코드
 
