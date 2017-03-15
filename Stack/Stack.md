@@ -1,5 +1,5 @@
-#Stack
-###스택의 특징
+# Stack
+### 스택의 특징
 스택의 특징은 삽입을 하면 아래 차곡차곡 쌓이다가
 
 나중에 빼낼 때 가장 나중에 입력한 값을 먼저 출력하는 LIFO(Last Input First Out)방식 입니다.
@@ -12,7 +12,7 @@
 
 ![Alt text](https://github.com/Funniest/DataStruct/blob/master/Stack/img/POP.png)
 
-###소스코드
+### 소스코드
 
 본 프로그램은 Visual studio 2015환경에서 작성되었습니다.
 
