@@ -1,5 +1,7 @@
 #Que
+
 ###큐의 특징
+
 스택은 마지막이 들어온 것이 먼저나오는 LIFO(Last Input First Out)방식인데,
 
 큐는 그 반대로 먼저들어온 것이 먼저 나오는 FIFO(First in First Out)방식입니다.
