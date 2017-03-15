@@ -1,6 +1,5 @@
-#Que
-
-###큐의 특징
+# Que
+### 큐의 특징
 
 스택은 마지막이 들어온 것이 먼저나오는 LIFO(Last Input First Out)방식인데,
 
@@ -14,7 +13,7 @@
 
 ![Alt text](https://github.com/Funniest/DataStruct/blob/master/Que/img/POP.png)
 
-###소스 코드
+### 소스 코드
 본 프로그램은 Visual studio 2015환경에서 작성되었습니다.
 ```
 #include <stdio.h>
@@ -86,8 +85,8 @@ void main() {
 }
 ```
 
-##Circular queue
-###원형 큐의 특징
+## Circular queue
+### 원형 큐의 특징
 위의 큐는 Que에서 데이터를 꺼낼 때마다 데이터의 이동이 일어나서 비효율적입니다.
 
 그래서 큐의 끝과 처음을 이은 원형 큐라는 것이 생기게 되었는데,
@@ -116,7 +115,7 @@ POP
 다른 분들껏도 보았는데, 왠지 하나가 비는것 같내요 ㅋㅋ
 ```
 
-###소스코드
+### 소스코드
 본 프로그램은 Visual studio 2015환경에서 작성되었습니다.
 ```
 #include <stdio.h>
