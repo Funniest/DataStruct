@@ -4,7 +4,7 @@
 
 아래 그림 같은 느낌으로 구성되어 있습니다.
 
-![Alt text](https://github.com/Funniest/study/blob/master/DataStruct/Tree/img/Tree.PNG)
+![Alt text](https://github.com/Funniest/DataStruct/blob/master/Tree/img/Tree.PNG)
 
 트리는 탐색 속도와 삽입, 삭제등이 빨라 여러 곳에서 쓰입니다.
 
@@ -18,7 +18,7 @@ n개의 노드를 가진 이진 트리는 n-1개의 간선을 가진다고 합�
 
 2진 트리의 순회 방식은 크게 3가지가 있는데, 아래 그림 처럼 전위 순회, 후위 순회, 중위 순회가 있습니다.
 
-![Alt text](https://github.com/Funniest/study/blob/master/DataStruct/Tree/img/Circuit.PNG)
+![Alt text](https://github.com/Funniest/DataStruct/blob/master/Tree/img/Circuit.PNG)
 
 탐색에는 주로 재귀 호출을 이용한다고 알려져 있습니다.
 
